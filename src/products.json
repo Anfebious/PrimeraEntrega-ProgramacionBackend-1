@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "title": "Curso de tortas",
+    "description": "Curso de tortas",
+    "code": "A001",
+    "price": 10000,
+    "status": true,
+    "stock": 100,
+    "category": "Tortas",
+    "thumbnail": [
+      "/photo"
+    ]
+  }
+]
